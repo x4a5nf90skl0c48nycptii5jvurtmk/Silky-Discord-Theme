@@ -2,11 +2,11 @@
  * @name Silky
  * @author luaxx
  * @description Silky pretty much a remake of the ForgottenKeep theme. | https://github.com/Awish-Senpai/ForgottenKeep
- * @version 1.1.14
+ * @version 1.1.15
  * @source https://github.com/x4a5nf90skl0c48nycptii5jvurtmk/Silky-Discord-Theme
 */
  
- .theme-dark {
+.theme-dark {
     --activity-card-background: #181818 !important;
     --android-navigation-bar-background: var(--primary-830) !important;
     --android-navigation-scrim-background: hsl(var(--primary-830-hsl)/0.5) !important;
@@ -143,7 +143,7 @@
     --logo-primary: var(--white-500) !important;
     --mention-background: hsl(var(--brand-500-hsl)/0.3) !important;
     --mention-foreground: var(--brand-260) !important;
-    --modal-background: #181818
+    --modal-background: #181818 !important;
     --modal-footer-background: #1d1d1d !important;
     --profile-gradient-message-input-border: hsl(var(--primary-500-hsl)/0.48) !important;
     --profile-gradient-note-background: hsl(var(--black-500-hsl)/0.3) !important;
@@ -234,6 +234,7 @@
     --user-profile-header-overflow-background: hsl(var(--primary-700-hsl)/0.5) !important;
     --white: var(--white-500) !important;
     --profile-body-background-color: #181818 !important;
+    --primary-600: #181818 !important;
 }
 
 .layers-OrUESM>.layer-86YKbF:first-child {
